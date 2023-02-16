@@ -14,12 +14,13 @@ Puedes observar mis proyectos acontinuación.
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mardelys&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
 <!--
-**Mardelys/Mardelys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Mardelys/Mardelys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.![68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4d617264656c7973266c61796f75743d636f6d70616374](https://user-images.githubusercontent.com/114613889/219392250-61118647-8183-438d-beb2-ab9a23381013.svg)
+
 
 Here are some ideas to get you started:
 
